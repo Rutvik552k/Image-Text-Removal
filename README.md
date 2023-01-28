@@ -8,4 +8,4 @@ Keras-Ocr
 OpenCV
 Python
 
-https://github.com/Rutvik552k/Image-Text-Removal/blob/main/text_removed_image.jpg
+![Alt text](https://github.com/Rutvik552k/Image-Text-Removal/blob/main/text_removed_image.jpg)
